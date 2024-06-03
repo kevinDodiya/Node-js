@@ -16,6 +16,10 @@ const friends = [
     {
         id: 2,
         name: 'Albert Einstein',
+    },
+    {
+        id: 3,
+        name: 'Albert Einstein',
     }
 ];
 server.on('request', (req, res) => {
